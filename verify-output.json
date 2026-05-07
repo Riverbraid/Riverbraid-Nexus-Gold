@@ -1,0 +1,13 @@
+{
+  "schema": "riverbraid.gold.verify.output",
+  "version": "1.0.0",
+  "repo": "Riverbraid-Nexus-Gold",
+  "ring": 1,
+  "petal": "Nexus-Gold",
+  "invariant": "NEXUS_STATIONARY",
+  "status": "VERIFIED",
+  "result": true,
+  "expected_result": true,
+  "canonical_signal": "nexus-gold:STATIONARY",
+  "canonical_reason": "Stationary fields match declared petal identity"
+}
